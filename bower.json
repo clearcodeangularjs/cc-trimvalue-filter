@@ -2,7 +2,7 @@
   "name": "value-filter",
   "description": "Filter for stringifing numbers - will trim value bigger than max value (default is 100).",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "value.js",
