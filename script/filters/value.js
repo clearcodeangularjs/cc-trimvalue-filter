@@ -21,7 +21,7 @@
 */
 'use strict';
 
-angular.module('cc.trimvalue.filter').filter('trimValue', function() {
+angular.module('cc.trimvalue.filter', []).filter('trimValue', function() {
     return function(value, max_value) {
         if(isNaN(value)){
             return '0';
