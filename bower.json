@@ -1,12 +1,12 @@
 {
-	"name": "value-filter",
+	"name": "cc-trimvalue-filter",
 	"description": "Filter for stringifing numbers - will trim value bigger than max value (default is 100).",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
 	],
 	"homepage": "http://plnkr.co/edit/UH6bm0jqqBWmzRd4FO6i?p=preview",
 	"version": "1.0.0",
-	"main": "value.js",
+	"main": "script/filters/value.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
