@@ -5,7 +5,7 @@ Trims value to max value when it's exceeding it. 100 is the default value.
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-trimvalue-filter --save ``` 
 
 
 Usage
